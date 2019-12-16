@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Client:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/messenger/Controllers/ControllerAuth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="139" column="21" lean-forward="true" selection-start-line="139" selection-start-column="21" selection-end-line="139" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#loginUserVK#0;class#ControllerAuth#0" />
+                <element signature="method#loginUser#0;class#ControllerAuth#0" />
+                <element signature="method#registerUser#0;class#ControllerAuth#0" />
+                <element signature="method#ConnectServer#0;class#ControllerAuth#0" />
+                <element signature="method#VkButtonClicked#0;class#ControllerAuth#0" />
+                <element signature="method#ClickedRegistration#0;class#ControllerAuth#0" />
+                <element signature="method#chekdate#0;class#ControllerAuth#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>authSigInButton</find>
+      <find>rememberMe</find>
+      <find>regBtn</find>
+      <find>regMale</find>
+      <find>Main.getMain().setMain();</find>
+      <find>loginUser</find>
+      <find>oncli</find>
+      <find>Platform.runLater(() -&gt; nextFXML(user));</find>
+      <find>LastName</find>
+      <find>MessageAllUsers</find>
+      <find>listUser</find>
+      <find>getBytes</find>
+      <find>chekLocal</find>
+      <find>MaskField</find>
+    </findStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/messenger/Controller.java" />
+        <option value="$PROJECT_DIR$/src/resources/fxml/mainWindow/ListCell.fxml" />
+        <option value="$PROJECT_DIR$/src/messenger/MsgListViewCell.java" />
+        <option value="$PROJECT_DIR$/src/resources/fxml/friends.fxml" />
+        <option value="$PROJECT_DIR$/src/resources/fxml/people.fxml" />
+        <option value="$PROJECT_DIR$/src/resources/css/style-main.css" />
+        <option value="$PROJECT_DIR$/src/messenger/MaskField.java" />
+        <option value="$PROJECT_DIR$/src/messenger/People.java" />
+        <option value="$PROJECT_DIR$/src/messenger/User.java" />
+        <option value="$PROJECT_DIR$/src/resources/fxml/mainWindow/MainWindow.fxml" />
+        <option value="$PROJECT_DIR$/src/messenger/UserObservableList.java" />
+        <option value="$PROJECT_DIR$/src/messenger/MsgAllUsersObservableList.java" />
+        <option value="$PROJECT_DIR$/src/resources/fxml/mainWindow/ListCellLeft.fxml" />
+        <option value="$PROJECT_DIR$/src/resources/fxml/mainWindow/ListCellRight.fxml" />
+        <option value="$PROJECT_DIR$/src/messenger/Controllers/ControllerMainWindow.java" />
+        <option value="$PROJECT_DIR$/src/messenger/Encryption.java" />
+        <option value="$PROJECT_DIR$/src/messenger/Msg.java" />
+        <option value="$PROJECT_DIR$/src/messenger/AythVK.java" />
+        <option value="$PROJECT_DIR$/src/messenger/Global.java" />
+        <option value="$PROJECT_DIR$/src/messenger/UserVK.java" />
+        <option value="$PROJECT_DIR$/src/messenger/TypeMessage.java" />
+        <option value="$PROJECT_DIR$/src/messenger/Main.java" />
+        <option value="$PROJECT_DIR$/src/resources/fxml/auth/auth.fxml" />
+        <option value="$PROJECT_DIR$/src/resources/css/style-auth.css" />
+        <option value="$PROJECT_DIR$/src/messenger/Controllers/ControllerAuth.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="58" />
+    <option name="y" value="52" />
+    <option name="width" value="1820" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="messenger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="messenger" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program\Client\src\messenger" />
+      <recent name="D:\Program\Client\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program\Client\lib" />
+      <recent name="D:\Program\Client\res" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="messenger.Main" />
+      <module name="Client" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="messenger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1569499295554" duration="386000" />
+      <workItem from="1569499688447" duration="4845000" />
+      <workItem from="1569849299155" duration="9646000" />
+      <workItem from="1569948127910" duration="4118000" />
+      <workItem from="1570016759479" duration="964000" />
+      <workItem from="1570023666019" duration="5709000" />
+      <workItem from="1570042538493" duration="14790000" />
+      <workItem from="1570446650030" duration="24038000" />
+      <workItem from="1570530238583" duration="19140000" />
+      <workItem from="1570552547944" duration="1517000" />
+      <workItem from="1571150498848" duration="1058000" />
+      <workItem from="1573642645208" duration="2161000" />
+      <workItem from="1573649875844" duration="630000" />
+      <workItem from="1575708033282" duration="23004000" />
+      <workItem from="1575802521825" duration="3343000" />
+      <workItem from="1575995655508" duration="866000" />
+      <workItem from="1576410156311" duration="1221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="118738000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.20268457" />
+      <window_info id="Structure" order="1" weight="0.24966443" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" weight="0.3295302" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4164306" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4532578" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Problems" order="9" />
+      <window_info anchor="bottom" id="Changes" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Terminal" order="16" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JetGradle" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.3295302" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>doc.body().text()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>doc.body()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>doc</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Global.getAccess_token()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oldValue</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>observable</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>newValue</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>newValue.startsWith(REDIRECT_URL)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>msg.getFrom()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://JavaScript-modules-diagram/D:/Program/Client/src/messenger">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/messenger</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="619.0" y="328.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messenger/AythVK.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/beans/property/ReadOnlyObjectPropertyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#1722#1723#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/netscape/javascript/JSObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/netscape/javascript/JSException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#1920#1921#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/beans/property/ReadOnlyDoubleWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/beans/property/DoublePropertyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+          <folding>
+            <element signature="e#2711#2712#0" expanded="true" />
+            <element signature="e#2773#2774#0" expanded="true" />
+            <element signature="e#3956#3957#0" expanded="true" />
+            <element signature="e#3997#3998#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/beans/property/ReadOnlyObjectWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/scene/web/WebView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="1256" selection-start-line="1256" selection-end-line="1256" />
+          <folding>
+            <element signature="e#42438#42439#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/stage/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="194" selection-start-line="194" selection-end-line="194" />
+          <folding>
+            <element signature="e#6576#6577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/scene/Scene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="3482" selection-start-line="3482" selection-end-line="3482" />
+          <folding>
+            <element signature="e#24429#24430#0" expanded="true" />
+            <element signature="e#24488#24489#0" expanded="true" />
+            <element signature="e#131748#131749#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/beans/property/ReadOnlyBooleanWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/beans/property/ReadOnlyBooleanPropertyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/beans/property/BooleanPropertyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
+          <folding>
+            <element signature="e#2674#2675#0" expanded="true" />
+            <element signature="e#2736#2737#0" expanded="true" />
+            <element signature="e#3921#3922#0" expanded="true" />
+            <element signature="e#3962#3963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/beans/property/ObjectPropertyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+          <folding>
+            <element signature="e#2623#2624#0" expanded="true" />
+            <element signature="e#2685#2686#0" expanded="true" />
+            <element signature="e#3863#3864#0" expanded="true" />
+            <element signature="e#3904#3905#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/scene/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="720" selection-start-line="720" selection-end-line="720" />
+          <folding>
+            <element signature="e#31321#31322#0" expanded="true" />
+            <element signature="e#31407#31408#0" expanded="true" />
+            <element signature="e#31466#31467#0" expanded="true" />
+            <element signature="e#40426#40427#0" expanded="true" />
+            <element signature="e#40457#40458#0" expanded="true" />
+            <element signature="e#40494#40495#0" expanded="true" />
+            <element signature="e#40528#40529#0" expanded="true" />
+            <element signature="e#48303#48304#0" expanded="true" />
+            <element signature="e#48364#48365#0" expanded="true" />
+            <element signature="e#64261#64262#0" expanded="true" />
+            <element signature="e#64300#64301#0" expanded="true" />
+            <element signature="e#67605#67606#0" expanded="true" />
+            <element signature="e#67654#67655#0" expanded="true" />
+            <element signature="e#67822#67823#0" expanded="true" />
+            <element signature="e#67889#67890#0" expanded="true" />
+            <element signature="e#278898#278899#0" expanded="true" />
+            <element signature="e#278980#278981#0" expanded="true" />
+            <element signature="e#326885#326886#0" expanded="true" />
+            <element signature="e#326940#326941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/scene/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="507" selection-start-line="507" selection-end-line="507" />
+          <folding>
+            <element signature="e#23741#23742#0" expanded="true" />
+            <element signature="e#23772#23773#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/com/sun/javafx/binding/ExpressionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/beans/property/ReadOnlyStringPropertyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="e#1664#1665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/beans/property/ReadOnlyStringWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/beans/property/StringPropertyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
+          <folding>
+            <element signature="e#2583#2584#0" expanded="true" />
+            <element signature="e#2645#2646#0" expanded="true" />
+            <element signature="e#3875#3876#0" expanded="true" />
+            <element signature="e#3916#3917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/scene/web/WebEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="1269" selection-start-line="1269" selection-end-line="1269" />
+          <folding>
+            <element signature="e#34673#34674#0" expanded="true" />
+            <element signature="e#34722#34723#0" expanded="true" />
+            <element signature="e#37176#37177#0" expanded="true" />
+            <element signature="e#37218#37219#0" expanded="true" />
+            <element signature="e#43139#43140#0" expanded="true" />
+            <element signature="e#43182#43183#0" expanded="true" />
+            <element signature="e#45531#45532#0" expanded="true" />
+            <element signature="e#45587#45588#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/jsoup-1.12.1.jar!/org/jsoup/Jsoup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#973#974#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/jsoup-1.12.1.jar!/org/jsoup/helper/HttpConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="292" selection-start-line="292" selection-end-line="292" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/gson-2.8.5.jar!/com/google/gson/Gson.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_221/javafx-src.zip!/javafx/application/Platform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="81" column="23" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
+          <folding>
+            <element signature="e#2657#2658#0" expanded="true" />
+            <element signature="e#2704#2705#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hs_err_pid9940.log" />
+    <entry file="file://$PROJECT_DIR$/src/resources/fxml/mainWindow/MainWindow.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/fxml/auth/auth.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1152">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/icon/avatar.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/icon/vk.png" />
+    <entry file="file://$PROJECT_DIR$/src/resources/icon/lock.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/css/style-auth.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messenger/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="52" column="43" lean-forward="true" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messenger/Global.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messenger/Encryption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1570548085427" expanded="true" signature="998:1035" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messenger/MaskField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messenger/Msg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messenger/MsgAllUsersObservableList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messenger/TypeMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messenger/People.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messenger/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="method#User#1;class#User#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messenger/UserObservableList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messenger/Controllers/ControllerMainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1076">
+          <caret line="126" column="46" selection-start-line="126" selection-start-column="46" selection-end-line="126" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setMainPage#0;class#ControllerMainWindow#0" />
+            <element signature="method#peopleAddfriends#0;class#ControllerMainWindow#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">fxml</node>
+            <node x="" y="">de</node>
+            <node x="" y="">css</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">org</node>
+            <node x="" y="">icon</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">impl</node>
+            <node x="" y="">license</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">java</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">messenger</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">animatefx</node>
+            <node x="" y="">styles</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">groovyjarjarantlr</node>
+            <node x="" y="">font</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="294.5" y="306.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/D:/Program/Client">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="583.5" y="327.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-Client">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-Client</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/messenger">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>messenger</OriginalElement>
+          <nodes>
+            <node x="733.0" y="98.0">messenger.UserObservableList</node>
+            <node x="233.0" y="98.0">messenger.TypeMessage</node>
+            <node x="69.75" y="0.0">messenger.Encryption</node>
+            <node x="1063.4204896454899" y="284.0">messenger.MaskField</node>
+            <node x="596.0" y="206.0">messenger.Controllers.ControllerMainWindow</node>
+            <node x="778.9821428571429" y="392.0">messenger.Controllers.ControllerAuth</node>
+            <node x="393.0" y="98.0">messenger.MsgAllUsersObservableList</node>
+            <node x="956.7954896454897" y="98.0">messenger.User</node>
+            <node x="622.6031151281152" y="0.0">messenger.Msg</node>
+            <node x="787.6891891891894" y="0.0">messenger.People</node>
+            <node x="803.2321428571429" y="284.0">messenger.Main</node>
+            <node x="117.0" y="98.0">messenger.Global</node>
+            <node x="0.0" y="284.0">messenger.UserVK</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="messenger.Controllers.ControllerAuth" target="messenger.MaskField">
+              <point x="75.90909090909088" y="-14.0" />
+              <point x="938.3912337662338" y="372.0" />
+              <point x="1124.9204896454899" y="372.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="messenger.Controllers.ControllerMainWindow" target="messenger.TypeMessage">
+              <point x="-86.42857142857144" y="-14.0" />
+              <point x="619.5714285714286" y="176.0" />
+              <point x="338.0" y="176.0" />
+              <point x="35.0" y="14.0" />
+            </edge>
+            <edge source="messenger.Controllers.ControllerMainWindow" target="messenger.Global">
+              <point x="-102.14285714285717" y="-14.0" />
+              <point x="603.8571428571429" y="186.0" />
+              <point x="189.0" y="186.0" />
+              <point x="24.0" y="14.0" />
+            </edge>
+            <edge source="messenger.MsgAllUsersObservableList" target="messenger.Msg">
+              <point x="0.0" y="-14.0" />
+              <point x="525.0" y="78.0" />
+              <point x="629.6031151281152" y="78.0" />
+              <point x="-28.0" y="14.0" />
+            </edge>
+            <edge source="messenger.Controllers.ControllerAuth" target="messenger.User">
+              <point x="15.18181818181813" y="-14.0" />
+              <point x="877.663961038961" y="332.0" />
+              <point x="1016.9204896454897" y="332.0" />
+              <point x="1016.9204896454897" y="186.0" />
+              <point x="1007.581203931204" y="186.0" />
+              <point x="11.28571428571422" y="14.0" />
+            </edge>
+            <edge source="messenger.Controllers.ControllerAuth" target="messenger.TypeMessage">
+              <point x="-30.363636363636374" y="-14.0" />
+              <point x="832.1185064935065" y="342.0" />
+              <point x="268.0" y="342.0" />
+              <point x="-35.0" y="14.0" />
+            </edge>
+            <edge source="messenger.Controllers.ControllerAuth" target="messenger.People">
+              <point x="60.72727272727272" y="-14.0" />
+              <point x="923.2094155844156" y="362.0" />
+              <point x="1052.9204896454899" y="362.0" />
+              <point x="1052.9204896454899" y="68.0" />
+              <point x="874.0891891891893" y="68.0" />
+              <point x="38.39999999999998" y="14.0" />
+            </edge>
+            <edge source="messenger.Global" target="messenger.Encryption">
+              <point x="0.0" y="-14.0" />
+              <point x="165.0" y="78.0" />
+              <point x="168.75" y="78.0" />
+              <point x="33.0" y="14.0" />
+            </edge>
+            <edge source="messenger.Controllers.ControllerAuth" target="messenger.UserVK">
+              <point x="-75.90909090909088" y="-14.0" />
+              <point x="786.573051948052" y="372.0" />
+              <point x="48.0" y="372.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="messenger.Controllers.ControllerMainWindow" target="messenger.People">
+              <point x="23.571428571428555" y="-14.0" />
+              <point x="729.5714285714286" y="186.0" />
+              <point x="722.5" y="186.0" />
+              <point x="722.5" y="78.0" />
+              <point x="816.4891891891893" y="78.0" />
+              <point x="-19.200000000000045" y="14.0" />
+            </edge>
+            <edge source="messenger.Controllers.ControllerAuth" target="messenger.Global">
+              <point x="-45.54545454545462" y="-14.0" />
+              <point x="816.9366883116883" y="352.0" />
+              <point x="141.0" y="352.0" />
+              <point x="-24.0" y="14.0" />
+            </edge>
+            <edge source="messenger.Main" target="messenger.Controllers.ControllerMainWindow">
+              <point x="-19.75" y="-14.0" />
+              <point x="822.9821428571429" y="259.0" />
+              <point x="706.0" y="259.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="messenger.Controllers.ControllerAuth" target="messenger.Main">
+              <point x="-15.18181818181813" y="-14.0" />
+              <point x="847.3003246753248" y="332.0" />
+              <point x="822.9821428571429" y="332.0" />
+              <point x="-19.75" y="14.0" />
+            </edge>
+            <edge source="messenger.Controllers.ControllerAuth" target="messenger.Encryption">
+              <point x="-60.72727272727275" y="-14.0" />
+              <point x="801.7548701298701" y="362.0" />
+              <point x="106.5" y="362.0" />
+              <point x="106.5" y="78.0" />
+              <point x="102.75" y="78.0" />
+              <point x="-33.0" y="14.0" />
+            </edge>
+            <edge source="messenger.Main" target="messenger.User">
+              <point x="19.75" y="-14.0" />
+              <point x="862.4821428571429" y="259.0" />
+              <point x="996.2954896454897" y="259.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="messenger.Controllers.ControllerMainWindow" target="messenger.MsgAllUsersObservableList">
+              <point x="-70.71428571428572" y="-14.0" />
+              <point x="635.2857142857143" y="166.0" />
+              <point x="525.0" y="166.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="messenger.Main" target="messenger.Controllers.ControllerAuth">
+              <point x="19.75" y="14.0" />
+              <point x="0.0" y="-14.0" />
+            </edge>
+            <edge source="messenger.Controllers.ControllerMainWindow" target="messenger.UserObservableList">
+              <point x="39.28571428571422" y="-14.0" />
+              <point x="745.2857142857142" y="146.0" />
+              <point x="834.0" y="146.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="messenger.Controllers.ControllerMainWindow" target="messenger.Msg">
+              <point x="-23.571428571428555" y="-14.0" />
+              <point x="682.4285714285714" y="186.0" />
+              <point x="689.5" y="186.0" />
+              <point x="689.5" y="58.0" />
+              <point x="671.6031151281152" y="58.0" />
+              <point x="14.0" y="14.0" />
+            </edge>
+            <edge source="messenger.UserObservableList" target="messenger.People">
+              <point x="5.6843418860808015E-14" y="-14.0" />
+              <point x="834.0000000000001" y="78.0" />
+              <point x="835.6891891891894" y="78.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="messenger.Controllers.ControllerMainWindow" target="messenger.User">
+              <point x="102.14285714285711" y="-14.0" />
+              <point x="808.1428571428571" y="186.0" />
+              <point x="985.0097753597754" y="186.0" />
+              <point x="-11.285714285714334" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="527.0" y="200.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messenger/UserVK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messenger/Controllers/ControllerAuth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="139" column="21" lean-forward="true" selection-start-line="139" selection-start-column="21" selection-end-line="139" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#loginUserVK#0;class#ControllerAuth#0" />
+            <element signature="method#loginUser#0;class#ControllerAuth#0" />
+            <element signature="method#registerUser#0;class#ControllerAuth#0" />
+            <element signature="method#ConnectServer#0;class#ControllerAuth#0" />
+            <element signature="method#VkButtonClicked#0;class#ControllerAuth#0" />
+            <element signature="method#ClickedRegistration#0;class#ControllerAuth#0" />
+            <element signature="method#chekdate#0;class#ControllerAuth#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Client:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jsoup-1.12.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

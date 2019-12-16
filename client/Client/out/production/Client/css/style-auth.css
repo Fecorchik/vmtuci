@@ -1,0 +1,101 @@
+/*TabPane*/
+#tabPane{
+    -fx-tab-min-height: 3em;
+    -fx-tab-max-height: 3em;
+
+    -fx-tab-min-width: 8em;
+    -fx-tab-max-width: 8em;
+
+    -fx-background-color: #2f333d;
+    -fx-font-size: 19;
+    -fx-font-family: "Century Gothic";
+}
+/*
+#2f333d - синий фон
+#2a2e37 - синий текст
+
+#efef94 - желтый фон
+#ffff8d - желтый текс
+ */
+.tab .tab-label{
+    -fx-background-color: transparent;
+    -fx-alignment: center;
+    -fx-text-fill: #ffff8d;
+}
+.tab{
+    -fx-background-color: #ffffff;
+    -fx-background-insets: 0.0;
+    -fx-background-radius: 0.0;
+    -fx-padding: 0 30 0 20;
+    -fx-border-width: 0 0 2 0;
+    -fx-border-color: #2f333d;
+    -fx-background-color: #2f333d;
+}
+.tab:selected{
+    -fx-background-color: #FAFCFB;
+    -fx-background-radius: 0;
+    -fx-background-insets: 0;
+    -fx-border-color: #efef94;
+    -fx-background-color: #2f333d;
+    -fx-text-fill: #2a2e37;
+    -fx-faint-focus-color: transparent;
+}
+.tab:focused{
+    -fx-faint-focus-color: transparent;
+}
+.tab-pane *.tab-header-background{
+    -fx-background-color: #2f333d;
+}
+.tab-pane:top *.tab-header-area{
+    -fx-background-insets: 0,0 0 10;
+}
+.tab:selected .focus-indicator{
+    -fx-focus-color: transparent;
+}
+.tabArchor{
+    -fx-background-color: #2f333d;
+}
+
+/**/
+.text-field{
+    -fx-background-color: #2f333d;
+    /*-fx-border-width: 0 0 2 0;*/
+    /*-fx-border-color: #efef94;*/
+    -fx-text-fill: #ffff8d ;
+    /*-fx-padding: 0 0 0 50;*/
+}
+.textf{
+    -fx-border-width: 0 0 2 0;
+    -fx-border-color: #efef94;
+}
+.hbox{
+    -fx-border-width: 0 0 2 0;
+    -fx-border-color: #efef94;
+}
+
+.btn{
+    -fx-border-radius: 0;
+    -fx-border-width: 2;
+    -fx-border-color: #efef94;
+}
+.txt{
+    -fx-text-fill: #efef94;
+}
+.vkbutton{
+    -fx-border-radius: 0;
+    -fx-border-width: 2;
+    -fx-border-color: #efef94;
+    -fx-background-color: #2f333d;
+    -fx-background-insets: 0.0;
+    -fx-background-radius: 0.0;
+}
+.vkbutton:hover{
+    -fx-border-radius: 0;
+    -fx-border-width: 2;
+    -fx-border-color: #efef94;
+    -fx-background-color: #2f333d;
+    -fx-background-insets: 0.0;
+    -fx-background-radius: 0.0;
+    -fx-border-radius: 200px;
+    -fx-background-color: red;
+}
